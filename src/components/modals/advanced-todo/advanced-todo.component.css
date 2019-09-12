@@ -1,0 +1,9 @@
+.close {
+  font-size: 1rem;
+  margin-top: -0.5rem;
+}
+
+button {
+  text-transform: uppercase;
+  font-weight: 600;
+}
