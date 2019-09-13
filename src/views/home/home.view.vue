@@ -3,7 +3,7 @@
     <header class="masthead text-center text-white">
       <div class="masthead-content">
         <div class="container">
-          <h1 class="masthead-heading mb-0">Todo App</h1>
+          <h1 class="masthead-heading mb-0">Todo Vue</h1>
         </div>
       </div>
       <div class="bg-circle-1 bg-circle"></div>

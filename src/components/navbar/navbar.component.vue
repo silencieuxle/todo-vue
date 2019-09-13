@@ -1,7 +1,7 @@
 <template>
   <b-navbar toggleable="lg" type="dark" id="mainNav" fixed="top" class="navbar-custom">
     <b-container>
-      <b-navbar-brand to="/">Todo</b-navbar-brand>
+      <b-navbar-brand to="/">Todo Vue</b-navbar-brand>
       <b-navbar-toggle target="nav-collapse" class="text-uppercase bg-primary text-white">
         <font-awesome-icon fas icon="bars" />
       </b-navbar-toggle>
