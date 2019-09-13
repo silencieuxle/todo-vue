@@ -12,8 +12,8 @@ const NavigationService = {
     },
     {
       id: 3,
-      title: 'About',
-      route: '/about',
+      title: 'Download',
+      route: '/download',
     },
   ],
   Apps: [
